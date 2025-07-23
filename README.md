@@ -27,3 +27,9 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 
 [MIT](LICENSE)
+
+## Changes - 2025-10-07
+
+- Improves user authentication flow
+- Minor bug fixes and improvements
+- Updated dependencies
